@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rooms
+  - SpawnPoint
+  - Manager
+  - Enemy
+  - Apple
+  - Bread
+  - Gold
+  - Strength
+  - Speed
+  - Health
+  - GoldCanvas
+  - Wall
+  - DefenseGlow
+  - StrengthGlow
+  - Upgrades
+  - Inventory
+  - Loader
+  - Stairs
+  - music
+  - Menu
+  - HPDisplay
+  - Sound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Wall
+  - GameAsset
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
